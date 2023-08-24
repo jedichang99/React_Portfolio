@@ -1,12 +1,12 @@
 import React from "react";
 import "./styles.css";
-
+import logoPic from "./img/logo.png"
 const Header = () => {
   return (
     <header>
       <img
         className="jedidiah"
-        src="assets/img/logo.png"
+        src={logoPic}
         alt="Jedidiah's logo"
       />
 

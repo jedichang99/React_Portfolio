@@ -6,21 +6,21 @@ const Footer = () => {
     <footer id="footer">
       {
         <>
-          <div class="socialfoot">
+          <div className="socialfoot">
             <a href="https://www.instagram.com/jedichang/">
-              <i class="fab fa-instagram"></i>
+              <i className="fab fa-instagram"></i>
             </a>
             <a href="https://www.facebook.com/jedidiah.chang.9/">
-              <i class="fab fa-facebook"></i>
+              <i className="fab fa-facebook"></i>
             </a>
             <a href="https://github.com/jedichang99">
-              <i class="fab fa-github"></i>
+              <i className="fab fa-github"></i>
             </a>
             <a href="https://www.linkedin.com/in/jedidiah-chang/">
-              <i class="fab fa-linkedin"></i>
+              <i className="fab fa-linkedin"></i>
             </a>
           </div>
-          <ul class="list">
+          <ul className="list">
             <li>
               <a href="#home">Home</a>
             </li>

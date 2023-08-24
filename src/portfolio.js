@@ -1,5 +1,11 @@
 import React from "react";
 import "./styles.css";
+import project1Pic from "./img/portfoilo/Screenshot 2023-04-12 at 12.33.41 PM.png"
+import project2Pic from "./img/portfoilo/MamaChangWebsite.jpg"
+import project3Pic from "./img/portfoilo/photographywebsite.jpg"
+import project4Pic from "./img/portfoilo/Screenshot 2023-07-20 at 9.30.30 PM.png"
+import project5Pic from "./img/portfoilo/Screenshot 2023-04-13 at 12.51.15 AM.png"
+import project6Pic from "./img/portfoilo/bo-bear.png"
 
 const Portfolio = () => {
   return (
@@ -9,7 +15,7 @@ const Portfolio = () => {
           <div className="photo project">
             <a href="https://jedidiahchang.github.io/index.html">
               <img
-                src="assets/img/portfoilo/photographywebsite.jpg"
+                src={project3Pic}
                 className="border"
                 alt="My Photography Website"
                 width="100px"
@@ -21,7 +27,7 @@ const Portfolio = () => {
               <div class="web project">
                 <a href="https://mamachang.github.io/MAMACHANG">
                   <img
-                    src="assets/img/portfoilo/MamaChangWebsite.jpg"
+                    src={project2Pic}
                     class="border"
                     alt="Mama Chang's Website"
                   />
@@ -30,7 +36,7 @@ const Portfolio = () => {
               <div class="web project">
                 <a href="https://jedidiahch.github.io/JedidiahChang">
                   <img
-                    src="assets/img/portfoilo/Screenshot 2023-04-12 at 12.33.41 PM.png"
+                    src={project1Pic}
                     class="border"
                     alt="Portfoilo Website"
                   />
@@ -39,7 +45,7 @@ const Portfolio = () => {
               <div class="web project">
                 <a href="https://jedichang99.github.io/Bo-Bear/">
                   <img
-                    src="assets/img/portfoilo/bo-bear.png"
+                    src={project6Pic}
                     class="border"
                     alt="food truck website"
                   />
@@ -48,7 +54,7 @@ const Portfolio = () => {
               <div class="web project">
                 <a href="https://jedichang99.github.io/Horiseon/">
                   <img
-                    src="assets/img/portfoilo/Screenshot 2023-04-13 at 12.51.15 AM.png"
+                    src={project5Pic}
                     class="border"
                     alt="first Assignment"
                   />
@@ -57,7 +63,7 @@ const Portfolio = () => {
               <div class="web project">
                 <a href="https://github.com/jedichang99/FitnessNotetracker">
                   <img
-                    src="assets/img/portfoilo/Screenshot 2023-07-20 at 9.30.30 PM.png"
+                    src={project4Pic}
                     class="border"
                     alt="first Assignment"
                   />
