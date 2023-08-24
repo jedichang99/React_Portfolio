@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React App
 
 ## Description
 
@@ -6,7 +6,7 @@ The purpose of this project was to make a portfolio with React.
 
 ## Table of Contents
 
-- [Getting Started with Create React App](#getting-started-with-create-react-app)
+- [React App](#react-app)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
