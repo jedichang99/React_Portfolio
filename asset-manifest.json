@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2fda71eb.css",
+    "main.js": "/static/js/main.836a810e.js",
+    "static/media/Screenshot 2023-04-13 at 12.51.15 AM.png": "/static/media/Screenshot 2023-04-13 at 12.51.15 AM.5135381fb206b73b6682.png",
+    "static/media/bo-bear.png": "/static/media/bo-bear.d39df7c1a31fed7e6bda.png",
+    "static/media/photographywebsite.jpg": "/static/media/photographywebsite.2e361719217f31d84897.jpg",
+    "static/media/MamaChangWebsite.jpg": "/static/media/MamaChangWebsite.0209fbf0a640cd13e86d.jpg",
+    "static/media/Screenshot 2023-04-12 at 12.33.41 PM.png": "/static/media/Screenshot 2023-04-12 at 12.33.41 PM.e7e653a6fa3c78dd8ace.png",
+    "static/media/Jedidiah.png": "/static/media/Jedidiah.f7ae48469bed6514e6f4.png",
+    "static/media/Screenshot 2023-07-20 at 9.30.30 PM.png": "/static/media/Screenshot 2023-07-20 at 9.30.30 PM.da1843e4ab9033945018.png",
+    "static/media/logo.png": "/static/media/logo.2e4619a11f3e738d76cd.png",
+    "index.html": "/index.html",
+    "main.2fda71eb.css.map": "/static/css/main.2fda71eb.css.map",
+    "main.836a810e.js.map": "/static/js/main.836a810e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fda71eb.css",
+    "static/js/main.836a810e.js"
+  ]
+}
