@@ -22,6 +22,9 @@ N/A
 
 Now you can go about the whole website and see everything I have accomplished.
 
+![The Whole Page before you start the quiz](src/img/Screenshot%202023-08-24%20at%2011.56.39%20PM.png)
+![The Whole Page after you start the quiz](src/img/Screenshot%202023-08-24%20at%2011.56.49%20PM.png)
+
 ## Credits
 
 N/A
